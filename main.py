@@ -1,7 +1,7 @@
 import sys
 
-from startMessage import startMessage
-from printRules import printRules
+from functions.startMessage import startMessage
+from functions.printRules import printRules
 
 print("Welcome to the Blackjack!")
 while True:
